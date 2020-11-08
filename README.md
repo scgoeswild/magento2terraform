@@ -50,9 +50,9 @@ This script is not limited to Magento deployments and can be used with any eComm
 * You can use Amazon Elastic Container Service (ECS) instead of ASG with Service Auto Scaling to adjust running containers desired count automatically.
 * Awesome AWS documentation is Open Source and on GitHub
 
-![Magento 2 AWS Infrastructure Cloud ](https://github.com/Genaker/TerraformMagentoCloud/blob/master/Magento2Cloud.png)
+![Magento 2 AWS Infrastructure Cloud ](https://github.com/scgoeswild/magento2terraform/blob/main/Magento2Cloud.png)
 
-[Cloud Flat View](https://github.com/Genaker/TerraformMagentoCloud/blob/master/Magento2Cloud-Flat.png)
+[Cloud Flat View](https://github.com/scgoeswild/magento2terraform/blob/main/Magento2Cloud.png)
 
 # Our Infrastructure
 
